@@ -1,6 +1,8 @@
 <h1 align="center"><b> THE 𝙂𝙞𝙨𝙝𝙖𝙣 𝘽𝙤𝙩  </b></h1>
 
-![logo](https://telegra.ph/file/9df6911fa9eef873650d8.jpg)
+<p align="center"><a href="https://t.me/GIZAKOANDSHIZU"><img src="https://telegra.ph/file/284f158005edeb4908a40.jpg" width="400"></a></p>
+<p align="center">
+
 
 
 
@@ -8,8 +10,8 @@
 <p align="center">
     Project of 𝙂𝙞𝙨𝙝𝙖𝙣 𝘽𝙤𝙩 - Makes it easy and fun to use Whatsapp. Also first Sinhala userbot for Whatsapp.
     <br>
-        <a href="http://t.me/danuklmabots">Telegram Channel</a> |
-        <a href="https://t.me/daknuma01">Telegram Group</a> |
+        <a href="https://t.me/GIZAKOANDSHIZUBOTS">Telegram Channel</a> |
+        <a href="https://t.me/GIZAKOANDSHIZU">Telegram Group</a> |
         <a href="https://chat.whaktsapp.com/JigWG8oj1hj1YXLgJaqxta">New Support Group</a> |
         <a href="https://t.me/unokfficialplugin">All Groups & channels </a> |
     <br>
