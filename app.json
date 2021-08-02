@@ -1,11 +1,11 @@
 {
-    "name": "X-Troid",
+    "name": "GISHAN BOT",
     "description": "World First sinhala whatsapp bot",
-    "logo": "https://telegra.ph/file/da6dadcdee7e1b304325a.jpg",
+    "logo": "https://telegra.ph/file/284f158005edeb4908a40.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
     "repository": "",
-    "website":   "lasiya.ml",
-    "success_url": "https://t.me/danumabots",
+    "website":   "gizako",
+    "success_url": "https://t.me/joinchat/29XFINAQu6BjYWIx",
     "stack": "container",
     "env": {
         "A_XTROID_SESSION": {
